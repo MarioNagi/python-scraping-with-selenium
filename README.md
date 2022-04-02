@@ -15,7 +15,7 @@ after that you have to download the driver, choose any driver like Google, Firef
 
 https://www.selenium.dev/documentation/webdriver/getting_started/install_drivers/
 
-please note that, the web driver version must be the same as your website driver
+please note that, the web driver version must be the same as your web browser driver
 
 
 ## Registering the driver and getting the data:
