@@ -1,6 +1,6 @@
 # Python-scraping-with-selenium
 
-This Tutorial is using python and selenium to scrap dynamic websites like Amazon store website, as Soup library can only scrap static websites
+This Project is using python and selenium to scrap dynamic websites like Amazon store website, as Soup library can only scrap static websites
 
 
 ## About Selenium:
